@@ -1,0 +1,19 @@
+# Dependencias del proyecto DeepLearning-Classifier
+# Generado para Python 3.14
+# Instalar con: pip install -r requirements.txt
+
+# TensorFlow (versión nightly para Python 3.14)
+# Para Python <= 3.12 usar: tensorflow>=2.10.0
+tf-nightly>=2.22.0.dev20260808
+
+# Procesamiento de datos
+numpy>=2.5.0
+h5py>=3.7.0
+pandas>=1.5.0
+
+# Procesamiento de imágenes
+Pillow>=9.0.0
+opencv-python>=4.6.0
+
+# Visualización
+matplotlib>=3.5.0
